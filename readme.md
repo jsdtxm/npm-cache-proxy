@@ -19,6 +19,8 @@
 
 ## Introduction
 
+针对中国宝宝体质优化的npm-cache-proxy，在Docker中集成Redis服务，并设置了GO及NPM的国内镜像源。
+
 #### ⚡️ Performance
 NCP is a tiny but very fast caching proxy written in Go. It uses Redis for data storage, which in combination with the speed of Go makes it incredibly fast. NCP is well-optimized and can be run on almost any platform, so if you have a Raspberry Pi, you can install NCP as your local cache there.
 
